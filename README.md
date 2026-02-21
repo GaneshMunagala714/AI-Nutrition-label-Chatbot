@@ -151,6 +151,68 @@ Run cells sequentially.
 - Model optimization
 - API conversion for production
 
+
+
+
+Run all cells sequentially.
+
+---
+
+# Example Workflow
+
+1. Upload label image  
+2. OCR extracts nutrition text  
+3. Data normalized & structured  
+4. ANN predicts health category  
+5. Chatbot explains decision  
+
+---
+
+# Future Enhancements
+
+- Convert notebook to production API  
+- Deploy via Streamlit Web App  
+- Integrate camera-based scanning  
+- Cloud deployment (AWS EC2 + S3)  
+- Improve OCR with image preprocessing  
+- Add recommendation engine  
+
+---
+
+# Academic Context
+
+Developed as part of Deep Learning coursework focusing on:
+
+- Neural Network design  
+- Real-world OCR preprocessing  
+- Feature engineering  
+- Model evaluation  
+- Explainable AI pipeline  
+
+---
+
+# Author
+
+**Ganesh Munagala**  
+Master’s in Data Science  
+University of New Haven  
+
+---
+
+# License
+
+MIT License
+
+---
+
+<p align="center">
+  ⭐ Star this repository if you found it useful.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
+
  ## Documentation
    Full project documentation available in:
    docs/AI_Nutrition_Label_Chatbot_Report.pdf 
